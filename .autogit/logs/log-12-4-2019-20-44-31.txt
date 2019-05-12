@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 12 2019 20:44:31 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app.component.html
+* src/app/material.module.ts
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
