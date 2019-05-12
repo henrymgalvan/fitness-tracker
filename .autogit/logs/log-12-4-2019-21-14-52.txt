@@ -1,0 +1,45 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 12 2019 21:14:52 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app.module.ts
+
+
+Created files:
+* .autogit/logs/log-12-4-2019-20-44-31.txt
+* src/app/app-routing.module.ts
+* src/app/auth/login/login.component.css
+* src/app/auth/login/login.component.html
+* src/app/auth/login/login.component.spec.ts
+* src/app/auth/login/login.component.ts
+* src/app/auth/signup/signup.component.css
+* src/app/auth/signup/signup.component.html
+* src/app/auth/signup/signup.component.spec.ts
+* src/app/auth/signup/signup.component.ts
+* src/app/training/current-training/current-training.component.css
+* src/app/training/current-training/current-training.component.html
+* src/app/training/current-training/current-training.component.spec.ts
+* src/app/training/current-training/current-training.component.ts
+* src/app/training/new-training/new-training.component.css
+* src/app/training/new-training/new-training.component.html
+* src/app/training/new-training/new-training.component.spec.ts
+* src/app/training/new-training/new-training.component.ts
+* src/app/training/past-training/past-training.component.css
+* src/app/training/past-training/past-training.component.html
+* src/app/training/past-training/past-training.component.spec.ts
+* src/app/training/past-training/past-training.component.ts
+* src/app/training/training.component.css
+* src/app/training/training.component.html
+* src/app/training/training.component.spec.ts
+* src/app/training/training.component.ts
+* src/app/welcome/welcome.component.css
+* src/app/welcome/welcome.component.html
+* src/app/welcome/welcome.component.spec.ts
+* src/app/welcome/welcome.component.ts
+
+
+Deleted files:
+
+
+Renamed files:
