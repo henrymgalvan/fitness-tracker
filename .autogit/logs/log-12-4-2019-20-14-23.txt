@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 12 2019 20:14:23 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app.component.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
