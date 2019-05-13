@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 12 2019 21:45:00 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app-routing.module.ts
+* src/app/app.component.html
+* src/app/app.module.ts
+* src/app/material.module.ts
+
+
+Created files:
+* .autogit/logs/log-12-4-2019-21-14-52.txt
+
+
+Deleted files:
+
+
+Renamed files:
