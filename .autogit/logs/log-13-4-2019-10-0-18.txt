@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon May 13 2019 10:00:18 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/auth/signup/signup.component.html
+* src/app/material.module.ts
+
+
+Created files:
+* .autogit/logs/log-13-4-2019-9-30-8.txt
+
+
+Deleted files:
+
+
+Renamed files:
