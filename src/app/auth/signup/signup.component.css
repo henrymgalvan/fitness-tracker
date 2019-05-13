@@ -1,15 +1,18 @@
 #container {
     display: flex;
+    width: 100%;
+    flex-direction: column;
 }
 
 .child {
-    width: 200px;
+    /* width: 200px; */
     height: 200px;
-    background-color: red;
+    flex: 1;
 }
 
 #child1 {
     background-color: red;
+    flex: 2;
 }
 
 #child2 {
