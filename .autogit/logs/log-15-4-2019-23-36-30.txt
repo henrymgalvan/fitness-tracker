@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 15 2019 23:36:30 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/app/app.module.ts
+* src/app/auth/signup/signup.component.css
+* src/app/auth/signup/signup.component.html
+
+
+Created files:
+* .autogit/logs/log-15-4-2019-23-6-23.txt
+
+
+Deleted files:
+
+
+Renamed files:
