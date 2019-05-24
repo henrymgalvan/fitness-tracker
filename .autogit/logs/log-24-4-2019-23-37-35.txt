@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 24 2019 23:37:35 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/material.module.ts
+* src/app/training/new-training/new-training.component.html
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
