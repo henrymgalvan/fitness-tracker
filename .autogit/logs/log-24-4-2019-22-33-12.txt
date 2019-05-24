@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Fri May 24 2019 22:33:12 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app.component.css
+* src/app/app.component.html
+* src/app/navigation/header/header.component.css
+* src/app/navigation/header/header.component.html
+* src/app/navigation/header/header.component.ts
+* src/app/navigation/sidenav-list/sidenav-list.component.css
+* src/app/navigation/sidenav-list/sidenav-list.component.html
+* src/app/navigation/sidenav-list/sidenav-list.component.ts
+
+
+Created files:
+* .autogit/logs/log-24-4-2019-22-2-56.txt
+
+
+Deleted files:
+
+
+Renamed files:
