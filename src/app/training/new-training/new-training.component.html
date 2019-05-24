@@ -1,12 +1,19 @@
 
 
 <section class="new-training" fxLayout fxLayoutAlign="center">
-  <mat-card fxFlex="400px">
-    <mat-card-title>Time to start a workout.</mat-card-title>
-    <mat-card-content>
-      Select type of training.
+  <mat-card fxFlex.xs="100%" fxFlex="400px">
+    <mat-card-title fxLayoutAlign="center">Time to start a workout.</mat-card-title>
+    <mat-card-content fxLayoutAlign="center">
+        <mat-form-field>
+            <select placeholder="Favorite Exercise">
+              <option value="crunches">Crunches</option>
+              <option value="touch-toes">Touch toes</option>
+              <option value="side-lunges">Side Lunges</option>
+              <option value="burpees">Burpees</option>
+            </select>
+        </mat-form-field>    
     </mat-card-content>
-    <mat-card-actions>
+    <mat-card-actions fxLayoutAlign="center">
       <button type="submit" mat-button>Start</button>
     </mat-card-actions>
   </mat-card>
