@@ -5,7 +5,7 @@
     <mat-card-title fxLayoutAlign="center">Time to start a workout.</mat-card-title>
     <mat-card-content fxLayoutAlign="center">
         <mat-form-field>
-            <select placeholder="Favorite Exercise">
+            <select matNativeControl required placeholder="Favorite Exercise">
               <option value="crunches">Crunches</option>
               <option value="touch-toes">Touch toes</option>
               <option value="side-lunges">Side Lunges</option>
@@ -17,7 +17,6 @@
       <button type="submit" mat-button (click)="onStartTraining()" >Start</button>
     </mat-card-actions>
   </mat-card>
-
 </section>
 
   

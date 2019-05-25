@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Sat May 25 2019 14:48:53 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/training/current-training/current-training.component.css
+* src/app/training/current-training/current-training.component.html
+* src/app/training/new-training/new-training.component.html
+* src/app/training/training.component.html
+
+
+Created files:
+* .autogit/logs/log-25-4-2019-11-40-29.txt
+
+
+Deleted files:
+
+
+Renamed files:
