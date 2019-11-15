@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri Nov 15 2019 18:31:47 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/navigation/sidenav-list/sidenav-list.component.css
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
