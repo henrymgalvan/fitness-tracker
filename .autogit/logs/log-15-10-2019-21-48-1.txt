@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Fri Nov 15 2019 21:48:01 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-15-10-2019-18-31-47.txt
+
+
+Deleted files:
+
+
+Renamed files:
