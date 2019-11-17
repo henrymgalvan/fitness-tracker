@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sun Nov 17 2019 18:50:28 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* src/app/auth/auth-data.model.ts
+* src/app/auth/auth.service.ts
+* src/app/auth/user.model.ts
+
+
+Deleted files:
+
+
+Renamed files:
