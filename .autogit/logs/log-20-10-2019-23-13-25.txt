@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Wed Nov 20 2019 23:13:25 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/app-routing.module.ts
+* src/app/auth/login/login.component.html
+
+
+Created files:
+* .autogit/logs/log-17-10-2019-20-51-16.txt
+* src/app/auth/auth.guard.ts
+
+
+Deleted files:
+
+
+Renamed files:
