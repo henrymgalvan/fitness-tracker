@@ -1,5 +1,4 @@
 import { Subject } from 'rxjs';
-
 import { Exercise } from './exercise.model';
 
 export class TrainingService {
@@ -18,8 +17,6 @@ export class TrainingService {
     }
 
     startExercise(selectedId: string) {
-        // const selectedExercise = this.availableExercises.find(ex => ex.id === selectedId);
-        // this.runningExercise = selectedExercise;
         const runningExercise = this.availableExercises.find(ex => ex.id === selectedId);
         this.exerciseChanged.next({ ...this.runningExercise });
     }
