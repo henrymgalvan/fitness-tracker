@@ -22,6 +22,19 @@ export class TrainingService {
         this.exerciseChanged.next({ ...this.runningExercise });
     }
 
+    // completeExercise() {
+    //     this.exercises.push({
+    //         id: this.runningExercise.id,
+    //         name: this.runningExercise.name,
+    //         duration: this.runningExercise.duration,
+    //         calories: this.runningExercise.calories,
+    //         date: new Date(),
+    //         state: 'completed'
+    //     });
+    //     this.runningExercise = null;
+    //     this.exerciseChanged.next(null);
+    // }
+
     completeExercise() {
         this.exercises.push({
             ...this.runningExercise,
