@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Nov 24 2019 20:38:06 GMT+0800 (Taipei Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/app/training/training.service.ts
+
+
+Created files:
+* .autogit/logs/log-24-10-2019-0-37-45.txt
+
+
+Deleted files:
+
+
+Renamed files:
