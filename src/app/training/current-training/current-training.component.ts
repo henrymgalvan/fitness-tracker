@@ -39,6 +39,7 @@ export class CurrentTrainingComponent implements OnInit {
     diallogRef.afterClosed().subscribe(result => {
       if (result) {
         this.trainingService.cancelExercise(this.progress);
+        this.progress = 0;
       } else {
         this.startOrResumeTimer();
       }
